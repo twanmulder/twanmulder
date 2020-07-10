@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://gist.githubusercontent.com/twanmulder/9977feb62f29dc3ce43f5f02b62eb8a9/raw/4d44b81be9c4d7a5654b937578a0a5589912a11e/my-name.gif" alt="My name, Twan Mulder"> 
-</p>
-<hr />
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=twanmulder.twanmulder " alt="visitor count of my GitHub profile"> 
+  <img width="75%" src="https://gist.githubusercontent.com/twanmulder/9977feb62f29dc3ce43f5f02b62eb8a9/raw/4d44b81be9c4d7a5654b937578a0a5589912a11e/my-name.gif" alt="My name, Twan Mulder"> 
 </p>
 
+### Hello there 👋
+
+Great to see you on my GitHub Profile! 
+
+My name is Twan Mulder, a creative developer & conversion rate optimization (CRO) consultant.
+I love creating beautiful experiences for users, which I currently do for some cool companies in the automotive industry.
 
 
 <p align="center">
