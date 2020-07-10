@@ -24,7 +24,7 @@ I love creating beautiful experiences for users, which I currently do for some a
 ---
 <br/>
 <p>
-  <a href="https://thatsanegg.com"><img width="400" align='right' src="./meta-image.png"></a>
+  <a href="https://thatsanegg.com"><img width="400" align='right' src="https://github.com/twanmulder/twanmulder/blob/master/meta-image.png"></a>
 </p>
 
 ### That's an Egg <img width="30" align="left" src="https://github.com/twanmulder/twanmulder/blob/master/egg.png"/>
