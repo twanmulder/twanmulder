@@ -13,11 +13,11 @@ I love creating beautiful experiences for users, which I currently do for some a
   <b>Some cool clients I currently work with:</b>
   <br/>
   <br/>
-  <img height="50" src="./audi_logo.png">
-  <img height="50" src="./klm_logo.png">
-  <img height="50" src="./mastercard_logo.png">
-  <img height="50" src="./volkswagen_logo.png">
-  <img height="50" src="./volvo_logo.png">
+  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/audi_logo.png">
+  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/klm_logo.png">
+  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/mastercard_logo.png">
+  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/volkswagen_logo.png">
+  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/volvo_logo.png">
 </p>
 <br/>
 
@@ -27,7 +27,7 @@ I love creating beautiful experiences for users, which I currently do for some a
   <a href="https://thatsanegg.com"><img width="400" align='right' src="./meta-image.png"></a>
 </p>
 
-### That's an Egg <img width="30" align="left" src="./egg.png"/>
+### That's an Egg <img width="30" align="left" src="https://github.com/twanmulder/twanmulder/blob/master/egg.png"/>
 
 Besides writing code, I also love blogging/writing. 
 
