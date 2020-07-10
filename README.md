@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://gist.githubusercontent.com/twanmulder/9977feb62f29dc3ce43f5f02b62eb8a9/raw/4d44b81be9c4d7a5654b937578a0a5589912a11e/my-name.gif" alt="My name, Twan Mulder"> 
-</p>
-
 ### Hello there 👋
 
 My name is Twan Mulder, a creative developer & conversion rate optimization (CRO) consultant 👨‍💻
@@ -27,7 +23,9 @@ I love creating beautiful experiences for users, which I currently do for some a
 
 Besides writing code, I also love blogging/writing. 
 
-You might know the expression "That's a piece of cake". In Dutch, we have a saying that goes likewise. Roughly translated back to English, it says "That's an Egg". With my writing, I want to make you feel confident in your ability as a developer and think; "That's an Egg!".
+You might know the expression "That's a piece of cake". In Dutch, we have a saying that goes likewise. Roughly translated back to English, it says "That's an Egg". 
+
+With my writing, I want to make you feel confident in your ability as a developer and think; "That's an Egg!".
 
 You can find it over at [thatsanegg.com](https://waylonwalker.com)
 
