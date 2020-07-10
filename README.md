@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" src="https://gist.githubusercontent.com/twanmulder/9977feb62f29dc3ce43f5f02b62eb8a9/raw/4d44b81be9c4d7a5654b937578a0a5589912a11e/my-name.gif" alt="My name, Twan Mulder"> 
+  <img src="https://gist.githubusercontent.com/twanmulder/9977feb62f29dc3ce43f5f02b62eb8a9/raw/4d44b81be9c4d7a5654b937578a0a5589912a11e/my-name.gif" alt="My name, Twan Mulder"> 
 </p>
 
 ### Hello there 👋
