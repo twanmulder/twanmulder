@@ -1,10 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://gist.githubusercontent.com/twanmulder/9977feb62f29dc3ce43f5f02b62eb8a9/raw/4d44b81be9c4d7a5654b937578a0a5589912a11e/my-name.gif" alt="My name, Twan Mulder"> 
+</p>
+<hr />
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=twanmulder.twanmulder " alt="visitor count of my GitHub profile"> 
+</p>
+
+
+
+<p align="center">
+  <a href="https://gist.github.com/twanmulder/8490e9e24173896845d4c534f0c7b0f6">
+    <img src="https://gist.githubusercontent.com/twanmulder/5cd9a168e47368f057206073ddc23f78/raw/dd413ad10ba6ef8a86216887f39832fd6f512f15/fire.gif" alt="Click here to sign my guestbook!">
+    <img src="https://gist.githubusercontent.com/twanmulder/8490e9e24173896845d4c534f0c7b0f6/raw/92897650d42b5fdb968b466b40e070168367df55/guestbook.gif" alt="Click here to sign my guestbook!">
+    <img src="https://gist.githubusercontent.com/twanmulder/5cd9a168e47368f057206073ddc23f78/raw/dd413ad10ba6ef8a86216887f39832fd6f512f15/fire.gif" alt="Click here to sign my guestbook!">
+  </a>
+</p>
+
+
+
+
 
 <!--
-**twanmulder/twanmulder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
