@@ -13,11 +13,7 @@ I love creating beautiful experiences for users, which I currently do for some a
   <b>Some cool clients I currently work with:</b>
   <br/>
   <br/>
-  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/audi_logo.png">
-  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/klm_logo.png">
-  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/mastercard_logo.png">
-  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/volkswagen_logo.png">
-  <img height="50" src="https://github.com/twanmulder/twanmulder/blob/master/volvo_logo.png">
+  <img height="100" src="https://github.com/twanmulder/twanmulder/blob/master/companies.png">
 </p>
 <br/>
 
