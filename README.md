@@ -1,42 +1,13 @@
-### Hello there 👋
+### Hi there 👋, I am Twan Mulder!
+###### *Creative Developer & CRO Consultant*
 
-My name is Twan Mulder, a creative developer & conversion rate optimization (CRO) consultant 👨‍💻
+I am a Creative Developer & CRO Consultant working on digital marketing projects for some of the largest clients of Accenture. I specialise in display advertising and CRO Consultancy. 
 
-I love creating beautiful experiences for users, which I currently do for some awesome companies in the automotive industry.
+* Frontend: HTML, CSS, SASS, Vanilla JavaScript, React, Vue
+* CRO: VWO, UsaBilla, Google Optimize, Adobe Target
 
-<br/>
-<p align="center">
-  <b>Some cool clients I currently work with:</b>
-  <br/>
-  <br/>
-  <img height="100" src="https://github.com/twanmulder/twanmulder/blob/master/companies.png">
-</p>
-<br/>
+### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/twanmulder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/twanmulder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toktoktwan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@toktoktwan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thatsanegg.com)  
 
----
-<br/>
-<p>
-  <a href="https://thatsanegg.com"><img width="400" align='right' src="https://github.com/twanmulder/twanmulder/blob/master/meta-image.png"></a>
-</p>
-
-### That's an Egg <img width="30" align="left" src="https://github.com/twanmulder/twanmulder/blob/master/egg.png"/>
-
-Besides writing code, I also love blogging/writing. 
-
-You might know the expression "That's a piece of cake". In Dutch, we have a saying that goes likewise. Roughly translated back to English, it says "That's an Egg". 
-
-With my writing, I want to make you feel confident in your ability as a developer and think; "That's an Egg!".
-
-You can find it over at [thatsanegg.com](https://waylonwalker.com)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<p align="center">
-  <a href="https://gist.github.com/twanmulder/8490e9e24173896845d4c534f0c7b0f6">
-    <img src="https://gist.githubusercontent.com/twanmulder/5cd9a168e47368f057206073ddc23f78/raw/dd413ad10ba6ef8a86216887f39832fd6f512f15/fire.gif" alt="Click here to sign my guestbook!">
-    <img src="https://gist.githubusercontent.com/twanmulder/8490e9e24173896845d4c534f0c7b0f6/raw/92897650d42b5fdb968b466b40e070168367df55/guestbook.gif" alt="Click here to sign my guestbook!">
-    <img src="https://gist.githubusercontent.com/twanmulder/5cd9a168e47368f057206073ddc23f78/raw/dd413ad10ba6ef8a86216887f39832fd6f512f15/fire.gif" alt="Click here to sign my guestbook!">
-  </a>
-</p>
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=twanmulder&show_icons=true)
